@@ -1,0 +1,4 @@
+[submodule "xamarin-android"]
+	path = xamarin-android
+	url = https://github.com/jonathanpeppers/xamarin-android.git
+	branch = uitest-support
