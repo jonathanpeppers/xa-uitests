@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xa-uitests", "xa-uitests\xa-uitests.csproj", "{BEB4241C-B0BA-4858-B92B-A378D09FEE81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCloudNunit", "TestCloudNunit\TestCloudNunit.csproj", "{9DED547E-3D29-4928-9090-1F480BFF6297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{BEB4241C-B0BA-4858-B92B-A378D09FEE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEB4241C-B0BA-4858-B92B-A378D09FEE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEB4241C-B0BA-4858-B92B-A378D09FEE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DED547E-3D29-4928-9090-1F480BFF6297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DED547E-3D29-4928-9090-1F480BFF6297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DED547E-3D29-4928-9090-1F480BFF6297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DED547E-3D29-4928-9090-1F480BFF6297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
