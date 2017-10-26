@@ -6,6 +6,7 @@ On-device results from test cloud:
 I/mono-stdout( 7147): Xamarin.Android.Bcl_Tests : 569002.202 ms
 I/mono-stdout( 7147): Tests run: 20458, Passed: 20134, Failed: 2, Skipped: 322, Inconclusive: 0
 ```
+See example NUnit results in `examples`.
 
 Thanks to @clancey for getting the initial prototype working.
 
